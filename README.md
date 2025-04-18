@@ -25,8 +25,8 @@ No modules.
 
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|:--------:|
-| <a name="input_file_content"></a> [file\_content](#input\_file\_content) | Content to write into the file | `string` | n/a | yes |
-| <a name="input_file_name"></a> [file\_name](#input\_file\_name) | Name of the file to be created | `string` | n/a | yes |
+| <a name="input_file_content"></a> [file\_content](#input\_file\_content) | Content to write into the file | `string` | `"Hello, Payal! This is from Terraform with everything in main.tf"` | no |
+| <a name="input_file_name"></a> [file\_name](#input\_file\_name) | Name of the file to be created | `string` | `"hello.txt"` | no |
 
 ## Outputs
 
