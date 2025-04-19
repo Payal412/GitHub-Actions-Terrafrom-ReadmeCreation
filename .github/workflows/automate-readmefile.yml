@@ -1,4 +1,4 @@
-name: Generate Terraform Docs
+name: Generate-Terraform-Docs
 
 on:
   workflow_call:
